@@ -67,7 +67,7 @@ header {
 
 @media screen and (max-width: 1024px) {
   header {
-    height: 630px;
+    height: 720px;
   }
 
   .scroll_down {
@@ -82,7 +82,7 @@ header {
 
 @media screen and (max-width: 600px) {
   header {
-    height: 630px;
+    height: 720px;
   }
   .header__socials,
   .scroll_down {
