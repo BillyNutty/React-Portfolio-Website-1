@@ -11,7 +11,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Hangman",
+    title: "Hangman (Desktop)",
     github: "https://github.com/BillyNutty/Hangman",
     demo: "https://billynutty.github.io/Hangman/",
   },
@@ -39,7 +39,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "Paint",
+    title: "Paint (Desktop)",
     github: "https://github.com/BillyNutty/paint-clone",
     demo: "https://billynutty.github.io/paint-clone/",
   },
