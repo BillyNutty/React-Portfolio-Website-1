@@ -91,9 +91,6 @@
 /* -------------MEDIA QUERIES(small devices)------------- */
 
 @media screen and (max-width: 600px) {
-  .about__container {
-    max-width: 85%;
-  }
   .about__me {
     width: 65%;
     margin: 0 auto 3rem;
