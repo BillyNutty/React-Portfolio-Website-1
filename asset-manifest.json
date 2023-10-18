@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/React-Portfolio-Website-1/static/css/main.a57a5e00.css",
-    "main.js": "/React-Portfolio-Website-1/static/js/main.254a2853.js",
-    "static/media/tindog.jpg": "/React-Portfolio-Website-1/static/media/tindog.a1dc75201ed44dc7f11e.jpg",
+    "main.js": "/React-Portfolio-Website-1/static/js/main.21a573de.js",
+    "static/media/candy.jpg": "/React-Portfolio-Website-1/static/media/candy.93ef12aa440f06ba2258.jpg",
+    "static/media/paint.jpg": "/React-Portfolio-Website-1/static/media/paint.b23f3efefa25cbf62d65.jpg",
+    "static/media/robojoker.jpg": "/React-Portfolio-Website-1/static/media/robojoker.1e01cd7efc12ed8a002b.jpg",
+    "static/media/hangman.jpg": "/React-Portfolio-Website-1/static/media/hangman.192ebb2c3e9742fe933c.jpg",
+    "static/media/tindog.jpg": "/React-Portfolio-Website-1/static/media/tindog.3688a8552afee95f9553.jpg",
+    "static/media/quiz.jpg": "/React-Portfolio-Website-1/static/media/quiz.78c09c0a1605d86ea45b.jpg",
     "static/media/william2.png": "/React-Portfolio-Website-1/static/media/william2.1805a6d55fdc7edc4e86.png",
     "static/media/William_Notturno_Resume2.pdf": "/React-Portfolio-Website-1/static/media/William_Notturno_Resume2.f55912b4a00d7501c038.pdf",
     "static/media/william.PNG": "/React-Portfolio-Website-1/static/media/william.cdf110109f0b2609662d.PNG",
-    "static/media/quiz.jpg": "/React-Portfolio-Website-1/static/media/quiz.0f62b990c28c188be4a5.jpg",
     "static/media/coltsteele.jpg": "/React-Portfolio-Website-1/static/media/coltsteele.d58d29523b39d91e50f8.jpg",
     "static/media/andrei.jpg": "/React-Portfolio-Website-1/static/media/andrei.ad73bd98c591451410f1.jpg",
-    "static/media/paint.jpg": "/React-Portfolio-Website-1/static/media/paint.83f437f442bdbc078728.jpg",
-    "static/media/robojoker.jpg": "/React-Portfolio-Website-1/static/media/robojoker.8e36797d762c3f60677d.jpg",
-    "static/media/candy.jpg": "/React-Portfolio-Website-1/static/media/candy.b98a39602a157dcf273f.jpg",
     "index.html": "/React-Portfolio-Website-1/index.html",
     "main.a57a5e00.css.map": "/React-Portfolio-Website-1/static/css/main.a57a5e00.css.map",
-    "main.254a2853.js.map": "/React-Portfolio-Website-1/static/js/main.254a2853.js.map"
+    "main.21a573de.js.map": "/React-Portfolio-Website-1/static/js/main.21a573de.js.map"
   },
   "entrypoints": [
     "static/css/main.a57a5e00.css",
-    "static/js/main.254a2853.js"
+    "static/js/main.21a573de.js"
   ]
 }
