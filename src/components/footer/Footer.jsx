@@ -35,7 +35,7 @@ const Footer = () => {
       <div className="footer__icons">
         <FaLaptopCode />
         <div className="copyright">
-          All rights reserved &copy;<strong>William Notturno</strong> 2023
+          <strong>William Notturno | Portfolio</strong> 2023
         </div>
         <FaReact />
       </div>
