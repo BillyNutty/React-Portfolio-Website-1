@@ -14,37 +14,27 @@ const Experience = () => {
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>HTML</h4>
-              </div>
+              <h4>HTML</h4>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>CSS</h4>
-              </div>
+              <h4>CSS</h4>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Javascript</h4>
-              </div>
+              <h4>Javascript</h4>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>React JS</h4>
-              </div>
+              <h4>React JS</h4>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Bootstrap</h4>
-              </div>
+              <h4>Bootstrap</h4>
             </article>
           </div>
         </div>
@@ -54,30 +44,22 @@ const Experience = () => {
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Node JS</h4>
-              </div>
+              <h4>Node JS</h4>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Express JS</h4>
-              </div>
+              <h4>Express JS</h4>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Mongo DB</h4>
-              </div>
+              <h4>Mongo DB</h4>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Mongoose JS</h4>
-              </div>
+              <h4>Mongoose JS</h4>
             </article>
           </div>
         </div>
