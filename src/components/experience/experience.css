@@ -35,6 +35,10 @@
   gap: 1rem;
 }
 
+.exp-list {
+  font-size: 0.95rem;
+}
+
 .experience__details-icon {
   margin-top: 6px;
   color: var(--color-primary);
@@ -54,6 +58,14 @@
 
   .experience__content {
     padding: 1rem;
+  }
+
+  .exp-list {
+    font-size: 0.85rem;
+  }
+
+  .experience__details-icon {
+    font-size: 0.9rem;
   }
 }
 
