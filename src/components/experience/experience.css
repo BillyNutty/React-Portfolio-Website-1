@@ -40,6 +40,10 @@
   color: var(--color-primary);
 }
 
+.inline {
+  font-size: 1.1rem;
+}
+
 /* ----------------MEDIA QUERIES(Medium)------------------*/
 @media screen and (max-width: 1024px) {
   .experience__container {
