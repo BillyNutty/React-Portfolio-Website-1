@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-Website-1/static/css/main.945ff9bc.css",
-    "main.js": "/React-Portfolio-Website-1/static/js/main.acfe243a.js",
-    "static/media/candy.jpg": "/React-Portfolio-Website-1/static/media/candy.93ef12aa440f06ba2258.jpg",
-    "static/media/paint.jpg": "/React-Portfolio-Website-1/static/media/paint.b23f3efefa25cbf62d65.jpg",
-    "static/media/robojoker.jpg": "/React-Portfolio-Website-1/static/media/robojoker.1e01cd7efc12ed8a002b.jpg",
+    "main.css": "/React-Portfolio-Website-1/static/css/main.bb9e3001.css",
+    "main.js": "/React-Portfolio-Website-1/static/js/main.c41dfca1.js",
+    "static/media/openai.jpg": "/React-Portfolio-Website-1/static/media/openai.f4dbfc6f0260f8bbf22e.jpg",
+    "static/media/commerce.jpg": "/React-Portfolio-Website-1/static/media/commerce.a74703c8aa1f4d440dcc.jpg",
     "static/media/hangman.jpg": "/React-Portfolio-Website-1/static/media/hangman.192ebb2c3e9742fe933c.jpg",
     "static/media/tindog.jpg": "/React-Portfolio-Website-1/static/media/tindog.3688a8552afee95f9553.jpg",
+    "static/media/viewtube.jpg": "/React-Portfolio-Website-1/static/media/viewtube.707d4994226200f80e07.jpg",
     "static/media/quiz.jpg": "/React-Portfolio-Website-1/static/media/quiz.78c09c0a1605d86ea45b.jpg",
+    "static/media/William-Notturno-Web Developer.pdf": "/React-Portfolio-Website-1/static/media/William-Notturno-Web Developer.6ca93062c89e2cb139e0.pdf",
     "static/media/william2.png": "/React-Portfolio-Website-1/static/media/william2.1805a6d55fdc7edc4e86.png",
-    "static/media/William_Notturno_Resume_P.pdf": "/React-Portfolio-Website-1/static/media/William_Notturno_Resume_P.e451b33d736b5d6efffe.pdf",
+    "static/media/React.jpg": "/React-Portfolio-Website-1/static/media/React.6d8a86127e7e5a6e81e7.jpg",
+    "static/media/Javascript.jpg": "/React-Portfolio-Website-1/static/media/Javascript.3642c63bfd19a3fdc9b3.jpg",
+    "static/media/MERN.jpeg": "/React-Portfolio-Website-1/static/media/MERN.1b7a132ea842a454d297.jpeg",
     "static/media/william.PNG": "/React-Portfolio-Website-1/static/media/william.cdf110109f0b2609662d.PNG",
     "static/media/coltsteele.jpg": "/React-Portfolio-Website-1/static/media/coltsteele.d58d29523b39d91e50f8.jpg",
     "static/media/andrei.jpg": "/React-Portfolio-Website-1/static/media/andrei.ad73bd98c591451410f1.jpg",
     "index.html": "/React-Portfolio-Website-1/index.html",
-    "main.945ff9bc.css.map": "/React-Portfolio-Website-1/static/css/main.945ff9bc.css.map",
-    "main.acfe243a.js.map": "/React-Portfolio-Website-1/static/js/main.acfe243a.js.map"
+    "main.bb9e3001.css.map": "/React-Portfolio-Website-1/static/css/main.bb9e3001.css.map",
+    "main.c41dfca1.js.map": "/React-Portfolio-Website-1/static/js/main.c41dfca1.js.map"
   },
   "entrypoints": [
-    "static/css/main.945ff9bc.css",
-    "static/js/main.acfe243a.js"
+    "static/css/main.bb9e3001.css",
+    "static/js/main.c41dfca1.js"
   ]
 }
