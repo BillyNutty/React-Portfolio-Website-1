@@ -52,7 +52,7 @@ const Contact = () => {
             <h4>Linkedin</h4>
             <h5>William Notturno</h5>
             <a
-              href="https://www.linkedin.com/in/william-notturno-317410254/"
+              href="https://www.linkedin.com/in/williamnotturno/"
               target="_blank"
             >
               Send A Message

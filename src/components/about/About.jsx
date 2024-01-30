@@ -23,27 +23,30 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Certifications</h5>
-              <small>Full Stack(MERN), React JS</small>
+              <small>Full-Stack(MERN), React JS, Javascript ES6</small>
             </article>
 
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Online Resources</h5>
-              <small>Udemy, FreeCodeCamp, StackOverflow</small>
+              <small>Udemy, FreeCodeCamp, StackOverflow, MDN, Mimo</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>Business, Games, Quizzes, Entertainment, etc.</small>
+              <small>
+                Business, Games, Quizzes, Entertainment, E-Commerce, etc.
+              </small>
             </article>
           </div>
 
           <p>
-            I am a client side developer familiar with modern web development
-            technologies. I am passionate about creating visually appealing web
-            applications which are both responsive and dynamic as well as fixing
-            bugs and implementing enhancements to improve the user experience.
+            I am a Web Developer familiar with modern languages, frameworks, and
+            design priciples. I am passionate about creating visually appealing
+            web applications which are both responsive and dynamic as well as
+            fixing bugs and implementing enhancements to improve the user
+            experience.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

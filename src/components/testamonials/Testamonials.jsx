@@ -4,6 +4,9 @@ import AVT1 from "../../assets/coltsteele.jpg";
 import AVT2 from "../../assets/angelayu.jpg";
 import AVT3 from "../../assets/jonas.jpg";
 import AVT4 from "../../assets/andrei.jpg";
+import MERN from "../../assets/MERN.jpeg";
+import react from "../../assets/React.jpg";
+import Javascript from "../../assets/Javascript.jpg";
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -16,31 +19,29 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVT1,
-    name: "Colt Steele",
+    image: MERN,
+    name: "1/3",
     link: "https://www.udemy.com/user/coltsteele/",
   },
   {
-    avatar: AVT2,
-    name: "Angela Yu",
-    link: "https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/",
+    avatar: AVT1,
+    image: react,
+    name: "2/3",
+    link: "https://www.udemy.com/user/coltsteele/",
   },
   {
     avatar: AVT3,
-    name: "Jonas Schmedtmann",
+    image: Javascript,
+    name: "3/3",
     link: "https://www.udemy.com/user/jonasschmedtmann/",
-  },
-  {
-    avatar: AVT4,
-    name: "Andrei Neagoie",
-    link: "https://zerotomastery.io/about/instructor/andrei-neagoie/",
   },
 ];
 
 const Testamonials = () => {
   return (
     <section id="testimonials">
-      <h5>Credit To My Instructors</h5>
-      <h2>Testimonials</h2>
+      <h5>Completed Coursework</h5>
+      <h2>Certifications</h2>
 
       <Swiper
         className="container testimonials__container"
@@ -51,16 +52,19 @@ const Testamonials = () => {
         scrollbar={{ draggable: true }}
         navigation
       >
-        {data.map(({ avatar, name, link }, index) => {
+        {data.map(({ avatar, image, name, link }, index) => {
           return (
             <SwiperSlide key={index} className="testimonial">
               <div className="client__avatar">
                 <img src={avatar} />
               </div>
+              <div>
+                <img className="image" src={image} />
+              </div>
               <h5 className="client__name">{name}</h5>
               <small className="client__review">
                 <a href={link} target="_blank">
-                  About Info
+                  Course Instructor Info
                 </a>
               </small>
             </SwiperSlide>

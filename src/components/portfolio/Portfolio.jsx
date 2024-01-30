@@ -3,9 +3,9 @@ import "./portfolio.css";
 import IMG1 from "../../assets/hangman.jpg";
 import IMG2 from "../../assets/tindog.jpg";
 import IMG3 from "../../assets/quiz.jpg";
-import IMG4 from "../../assets/robojoker.jpg";
-import IMG5 from "../../assets/paint.jpg";
-import IMG6 from "../../assets/candy.jpg";
+import IMG4 from "../../assets/commerce.jpg";
+import IMG5 from "../../assets/viewtube.jpg";
+import IMG6 from "../../assets/openai.jpg";
 
 const data = [
   {
@@ -32,23 +32,23 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "RoboJoker",
-    github: "https://github.com/BillyNutty/Joke-Teller",
-    demo: "https://billynutty.github.io/Joke-Teller/",
+    title: "E-commerce",
+    github: "https://github.com/BillyNutty/e-commerce",
+    demo: "https://billynutty.github.io/e-commerce/",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Paint (Desktop)",
-    github: "https://github.com/BillyNutty/paint-clone",
-    demo: "https://billynutty.github.io/paint-clone/",
+    title: "Viewtube",
+    github: "https://github.com/BillyNutty/viewtube",
+    demo: "https://billynutty.github.io/viewtube/",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Candy Museum",
-    github: "https://github.com/BillyNutty/museum-of-candy",
-    demo: "https://billynutty.github.io/museum-of-candy/",
+    title: "Open AI / GPT3",
+    github: "https://github.com/BillyNutty/gpt3",
+    demo: "https://billynutty.github.io/gpt3/",
   },
 ];
 

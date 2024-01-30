@@ -16,11 +16,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>User Research</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Reduce Bounce Rates</p>
+              <p>Collaborate With Designers</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -28,11 +24,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Improve Accessability / Load Time</p>
+              <p>Improve Accessability</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Optimized For Mobile Devices</p>
+              <p>Optimized For Mobile</p>
             </li>
           </ul>
         </article>
@@ -54,10 +50,6 @@ const Services = () => {
             <li>
               <BiCheck className="service__list-icon" />
               <p>Updates / Maintenance</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Deployment</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -83,10 +75,6 @@ const Services = () => {
             <li>
               <BiCheck className="service__list-icon" />
               <p>Interactive Content</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Convey Products / Services</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
