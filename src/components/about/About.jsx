@@ -22,7 +22,7 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Certifications</h5>
+              <h5>Certificates</h5>
               <small>Full-Stack(MERN), React JS, Javascript ES6</small>
             </article>
 
